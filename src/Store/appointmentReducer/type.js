@@ -1,0 +1,1 @@
+export const AddAppointment = "ADD_APPOINTMENT"

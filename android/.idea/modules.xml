@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/striker2coach.iml" filepath="$PROJECT_DIR$/.idea/modules/striker2coach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/striker2coach.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/striker2coach.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-962534052/striker2coach.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-962534052/striker2coach.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2117681230/striker2coach.react-native-community-checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/-2117681230/striker2coach.react-native-community-checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2117681230/striker2coach.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/-2117681230/striker2coach.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/151333191/striker2coach.react-native-community_clipboard.iml" filepath="$PROJECT_DIR$/.idea/modules/151333191/striker2coach.react-native-community_clipboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1461710216/striker2coach.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1461710216/striker2coach.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1705564535/striker2coach.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/1705564535/striker2coach.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2196159/striker2coach.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/2196159/striker2coach.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-269066318/striker2coach.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-269066318/striker2coach.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/622147281/striker2coach.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/622147281/striker2coach.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1239883364/striker2coach.react-native-location.iml" filepath="$PROJECT_DIR$/.idea/modules/-1239883364/striker2coach.react-native-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-605753194/striker2coach.react-native-pager-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-605753194/striker2coach.react-native-pager-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1277181498/striker2coach.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1277181498/striker2coach.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-98689027/striker2coach.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-98689027/striker2coach.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1533089944/striker2coach.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1533089944/striker2coach.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1569253760/striker2coach.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1569253760/striker2coach.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2127851336/striker2coach.react-native-sound.iml" filepath="$PROJECT_DIR$/.idea/modules/2127851336/striker2coach.react-native-sound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1953585801/striker2coach.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1953585801/striker2coach.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/23039668/striker2coach.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/23039668/striker2coach.react-native-video.iml" />
+    </modules>
+  </component>
+</project>

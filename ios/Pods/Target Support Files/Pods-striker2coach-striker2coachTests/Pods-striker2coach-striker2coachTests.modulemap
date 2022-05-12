@@ -1,0 +1,6 @@
+module Pods_striker2coach_striker2coachTests {
+  umbrella header "Pods-striker2coach-striker2coachTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

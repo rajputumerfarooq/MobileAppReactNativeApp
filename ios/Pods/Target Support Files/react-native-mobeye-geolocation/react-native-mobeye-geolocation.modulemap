@@ -1,0 +1,6 @@
+module react_native_mobeye_geolocation {
+  umbrella header "react-native-mobeye-geolocation-umbrella.h"
+
+  export *
+  module * { export * }
+}
